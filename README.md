@@ -79,13 +79,13 @@ A selection of projects covering application development, cloud engineering, and
 |---|---|---|
 | [aws-saa-labs](https://github.com/2Fac3R/aws-saa-labs) | Hands-on AWS architecture labs built with an infrastructure-as-code-first approach, including networking, compute, storage, databases, and serverless services. | AWS, Terraform, Python |
 | [swe-lab](https://github.com/2Fac3R/swe-lab) | Structured engineering curriculum covering algorithms, design patterns, system design, Python, Elixir, and cloud architecture. | Python, Elixir, AWS |
-| [python-algorithms](https://github.com/2Fac3R/python-algorithms) | Python implementations of algorithms and problem-solving exercises. | Python |
 
 ### Security & Developer Tools
 
 | Project | Description | Technologies |
 |---|---|---|
 | [api-discovery](https://github.com/2Fac3R/api-discovery) | Nmap Scripting Engine script for identifying exposed API documentation and entry points on web servers. | Lua, Nmap NSE |
+| [gitrob](https://github.com/2Fac3R/gitrob) | Fork of the GitHub organization reconnaissance tool extended with new implementations: support for scanning private repositories and unauthenticated GitHub API access. | Go, GitHub API |
 | [htbmachines](https://github.com/2Fac3R/htbmachines) | Command-line utility to search Hack The Box machines by name, IP, difficulty, OS, and skills. | Bash |
 | [ipcalc](https://github.com/2Fac3R/ipcalc) | IPv4 subnet calculator covering masks, network ranges, host ranges, and subnetting. | Bash, Networking |
 | [clone-repos](https://github.com/2Fac3R/clone-repos) | CLI tool that clones GitHub repositories and organizes them by language and detected framework. | Bash, Git, GitHub API |
